@@ -1,7 +1,8 @@
+import styles from './Navbar.module.css';
 export default function Home() {
   return (
     <>
-      <div className="navbar">Navbar</div>
+      <div className={styles.navbar}>Navbar</div>
     </>
   );
 }

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sepatu Mahal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Dolorem, maxime",
+    "value": 100000
+  },
+  {
+    "title": "Sepatu nggk terlalu mahal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Dolorem, maxime",
+    "value": 100000
+  },
+  {
+    "title": "Sepatu biasa aja",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Dolorem, maxime",
+    "value": 100000
+  },
+  {
+    "title": "Sepatu b aja",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Dolorem, maxime",
+    "value": 100000
+  },
+  {
+    "title": "Sepatu so so",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit Dolorem, maxime",
+    "value": 100000
+  }
+]
